@@ -2,3 +2,5 @@ source "http://rubygems.org"
 
 gem "sinatra", "~> 1.4.4"
 gem "opentok", :path => "../../"
+
+ruby "2.3.1"
